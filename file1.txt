@@ -1,3 +1,8 @@
 file 1 from ahmad
+<<<<<<< HEAD
 edrees modification
 Ahmad modificationTEST
+=======
+edrees modificationTEST
+Ahmad modification
+>>>>>>> 9855353411fbab1005163f323791dbf951b6b0a7
